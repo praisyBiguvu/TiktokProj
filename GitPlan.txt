@@ -1,0 +1,7 @@
+Git Checklist
+- Create 
+- Clone
+- Edit
+- Stage
+- Commit
+- Push
