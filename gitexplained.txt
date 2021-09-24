@@ -1,0 +1,8 @@
+Github Checklist
+- Create a repository (a place to store source code)
+- Using Source tree, make a copy of the repository on local computer
+- Edit the code
+- Stage the files
+- Commit the files
+- Push to main repository on Git account
+- Bonus: Pull to download from main repository. 
